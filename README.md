@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Ramya Perumal
+I am currently learning Python.
 
 <!--
 **kpramya2003/kpramya2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
