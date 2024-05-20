@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Ramya Perumal
+I am Ramya Perumal.
+
 I am currently learning Python.
 
 <!--
